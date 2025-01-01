@@ -1,0 +1,38 @@
+{
+  "name": "youtube-search-api",
+  "version": "1.0.0",
+  "description": "A simple API to search YouTube videos using @distube/ytsr and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "youtube",
+    "api",
+    "search",
+    "express",
+    "ytsr",
+    "distube"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "@distube/ytsr": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/youtube-search-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/youtube-search-api/issues"
+  },
+  "homepage": "https://github.com/yourusername/youtube-search-api#readme"
+}
