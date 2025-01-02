@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
-    "@distube/ytsr": "^2.0.4"
+    "ytsr": "^3.8.4"
   },
   "devDependencies": {
     "nodemon": "^3.0.0"
