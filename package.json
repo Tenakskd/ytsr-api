@@ -10,7 +10,7 @@
     "ejs": "^3.1.10",
     "express": "^4.17.1",
     "jsonpath": "^1.0.0",
-    "ytsr": "^3.8.4"
+    "ytsr": "latest"
     "youtubei.js": "latest",
   },
   "description": "ytsr",
