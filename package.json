@@ -11,10 +11,11 @@
     "express": "^4.17.1",
     "jsonpath": "^1.0.0",
     "ytsr": "^3.8.4"
+    "youtubei.js": "^13.0.0",
   },
   "description": "ytsr",
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   },
   "repository": {
     "type": "git",
